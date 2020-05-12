@@ -22,3 +22,28 @@ C:\Users\danie\source\repos\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLi
 C:\Users\danie\source\repos\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
 C:\Users\danie\source\repos\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.exe
 C:\Users\danie\source\repos\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.pdb
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\ProyectoBeLife.exe.config
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\ProyectoBeLife.exe
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\ProyectoBeLife.pdb
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\ControlzEx.dll
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\MahApps.Metro.dll
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\ControlzEx.pdb
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\MahApps.Metro.pdb
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\bin\Debug\MahApps.Metro.xml
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.csprojAssemblyReference.cache
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\Resources\Icons.baml
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\App.baml
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\App.g.cs
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife_MarkupCompile.cache
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife_MarkupCompile.lref
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.g.resources
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.Properties.Resources.resources
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.csproj.GenerateResource.cache
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.csproj.CopyComplete
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.exe
+C:\Users\HP\Documents\aaaaaaaaaaa3ersem\DESARROLLO EAs\ProyectoBeLife\ProyectoBeLife\obj\Debug\ProyectoBeLife.pdb

@@ -119,5 +119,20 @@
   <ItemGroup>
     <Resource Include="Resources\Entypo-license.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imagenes\ClientAdd.png" />
+    <Resource Include="imagenes\ClientDelete.png" />
+    <Resource Include="imagenes\Clientes.png" />
+    <Resource Include="imagenes\ClientSearch.png" />
+    <Resource Include="imagenes\ClientUpdate.png" />
+    <Resource Include="imagenes\ContractAdd.png" />
+    <Resource Include="imagenes\ContractDelete.png" />
+    <Resource Include="imagenes\ContractSearch.png" />
+    <Resource Include="imagenes\ContractUpdate.png" />
+    <Resource Include="imagenes\Contratos.png" />
+    <Resource Include="imagenes\DataSearch.png" />
+    <Resource Include="imagenes\info.png" />
+    <Resource Include="imagenes\Logo BeLife.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

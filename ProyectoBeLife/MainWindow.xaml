@@ -16,7 +16,6 @@
                 <Controls:MetroTabItem.Header>
                     <StackPanel Orientation="Horizontal" >
                         <Image Source="imagenes/Clientes.png" Height="59" Margin="0,0,709,0"/>
-                        <TextBlock Text="Contrato" Foreground="Black"  Margin="0,0,709,0" />
                     </StackPanel>
                 </Controls:MetroTabItem.Header>
                 

@@ -57,5 +57,25 @@ namespace ProyectoBeLife
         {
 
         }
+
+        private void Btn_reg_cli(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 0;
+        }
+
+        private void Btn_li_cli(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 1;
+        }
+
+        private void Btn_reg_con(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 2;
+        }
+
+        private void Btn_li_con(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 3;
+        }
     }
 }

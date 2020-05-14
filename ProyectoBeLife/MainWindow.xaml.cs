@@ -27,5 +27,35 @@ namespace ProyectoBeLife
         {
             InitializeComponent();
         }
+
+
+
+        private void BtMenu_Click(object sender, RoutedEventArgs e)
+        {
+            FlyMenu.IsOpen = true;
+        }
+
+
+
+        //basura
+        private void Flyout_ContextMenuOpening(object sender, ContextMenuEventArgs e)
+        {
+
+        }
+
+        private void BtMenu_ContextMenuOpening(object sender, ContextMenuEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Tile_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

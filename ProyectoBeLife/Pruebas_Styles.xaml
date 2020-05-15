@@ -1,0 +1,18 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProyectoBeLife"
+      xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="ProyectoBeLife.Pruebas_Styles"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Pruebas_Styles">
+
+    <Grid Background="Gray">
+        <Button Content="Button" HorizontalAlignment="Left" Width="179" Height="43" Margin="49,49,0,0" VerticalAlignment="Top" Template="{DynamicResource Btn1}"  />
+
+
+
+    </Grid>
+</Page>

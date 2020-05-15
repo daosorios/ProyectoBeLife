@@ -27,5 +27,55 @@ namespace ProyectoBeLife
         {
             InitializeComponent();
         }
+
+
+
+        private void BtMenu_Click(object sender, RoutedEventArgs e)
+        {
+            FlyMenu.IsOpen = true;
+        }
+
+
+
+        //basura
+        private void Flyout_ContextMenuOpening(object sender, ContextMenuEventArgs e)
+        {
+
+        }
+
+        private void BtMenu_ContextMenuOpening(object sender, ContextMenuEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Tile_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtCliente_Click(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 0;
+        }
+
+        private void BtListadoCliente_Click(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 1;
+        }
+
+        private void BtContrato_Click(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 2;
+        }
+
+        private void BtListadoContrato_Click(object sender, RoutedEventArgs e)
+        {
+            TBmain.SelectedIndex = 3;
+        }
     }
 }

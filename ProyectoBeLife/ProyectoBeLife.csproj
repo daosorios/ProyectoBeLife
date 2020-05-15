@@ -120,9 +120,6 @@
     <Resource Include="Resources\Entypo-license.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Imagen\House.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Imagen\User.png" />
   </ItemGroup>
   <ItemGroup>

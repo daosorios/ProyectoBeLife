@@ -13,7 +13,7 @@
     <Grid>
         <!--Tab Control con item para distintas paginas -->
         <Controls:MetroTabControl Name="TBmain">
-            <Controls:MetroTabItem Name="TBi1">
+            <Controls:MetroTabItem Name="TB1">
                 <Grid>
                     <Label Content=" Pagina 1" HorizontalAlignment="Center"/>
                 </Grid>
@@ -26,7 +26,7 @@
             <Controls:MetroTabItem Name="TB3">
                 <Grid>
                     <Label Content=" Pagina 3" HorizontalAlignment="Center"/>
-                </Grid>                
+                </Grid>
             </Controls:MetroTabItem>
             <Controls:MetroTabItem Name="TB4">
                 <Grid>
@@ -44,19 +44,19 @@
 
         <Controls:Flyout x:Name="FlyMenu" Width="129" Background="Gray" ContextMenuOpening="Flyout_ContextMenuOpening">
             <Canvas>
-                <Button x:Name="BtCliente" Background="Gray" Canvas.Left="5" Canvas.Top="0" Click="BtCliente_Click">
+                <Button x:Name="BtCliente" Background="Gray" Canvas.Left="5" Canvas.Top="0" Click="BtCliente_Click"  >
                     <StackPanel>
                         <Image Source="Imagen/user.png" Width="90" Height="84"/>
                         <TextBlock HorizontalAlignment="Center" FontWeight="Normal" Foreground="White" >Registro Cliente</TextBlock>
                     </StackPanel>
                 </Button>
-                <Button x:Name="BtListadoCliente" Background="Gray" Canvas.Left="5" Canvas.Top="120" Click="BtListadoCliente_Click">
+                <Button x:Name="BtListadoCliente" Background="Gray" Canvas.Left="5" Canvas.Top="120" Click="BtListadoCliente_Click" >
                     <StackPanel>
                         <Image Source="Imagen/ListadoCliente.png" Width="90" Height="84"/>
                         <TextBlock HorizontalAlignment="Center" FontWeight="Normal" Foreground="White" >Listado Cliente</TextBlock>
                     </StackPanel>
                 </Button>
-                <Button x:Name="BtContrato" Background="Gray" Canvas.Top="240" Width="128" Click="BtContrato_Click" >                
+                <Button x:Name="BtContrato" Background="Gray" Canvas.Top="240" Width="128" Click="BtContrato_Click" > 
                     <StackPanel>
                         <Image Source="Imagen/Contrato.png" Width="109" Height="97"/>
                         <TextBlock HorizontalAlignment="Center" FontWeight="Normal" Foreground="White" >Contrato de Vida</TextBlock>

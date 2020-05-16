@@ -77,5 +77,10 @@ namespace ProyectoBeLife
         {
             TBmain.SelectedIndex = 3;
         }
+
+        private void TBmain_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
